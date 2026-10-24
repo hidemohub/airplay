@@ -1,0 +1,14 @@
+{
+  "windowBeforeMs": 12252,
+  "windowAfterMs": 3666,
+  "networkWindowAfterMs": 3589,
+  "exitUiMs": 3,
+  "networkShutdownMs": 4791,
+  "quickBootstrapMs": 332,
+  "audioChildReaped": true,
+  "videoRegression": true,
+  "windowRegression": true,
+  "packagedJarValidation": true,
+  "realIPhoneRetested": false,
+  "sha256": "43c56c94cc032733bf5817e37ca9b4c81fdab603e07434fa572a3120736011a6"
+}

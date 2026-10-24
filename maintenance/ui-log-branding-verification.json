@@ -1,0 +1,10 @@
+{
+  "videoDecodeAndTitleFps": true,
+  "detachedStatusBarRemoved": true,
+  "windowsControlsAndTray": true,
+  "savedDefaultNameMigration": true,
+  "audioProtocolAndDecode": true,
+  "realIPhoneRetested": false,
+  "jar": "airplay-server-1.1.2.jar",
+  "sha256": "69342214641c2efdfab2a3da741196abb0018d814541b72347f7fc4cc2855995"
+}
