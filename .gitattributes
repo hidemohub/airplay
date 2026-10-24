@@ -1,0 +1,14 @@
+* text=auto
+*.java text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.properties text eol=lf
+*.json text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.sh text eol=lf
+*.png binary
+*.jar binary
+*.exe binary
+*.dll binary
+*.zip binary
